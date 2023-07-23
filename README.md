@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Omid</h1>
 <h3 align="center">A passionate Full-Stack developer</h3>
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **JavaScript Algorithms and Data Structures**
 
 - 💬 Ask me about **React, Next, CSS, Sanity**
 

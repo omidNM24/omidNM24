@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **JavaScript Algorithms and Data Structures**
 
-- 👨‍💻 All of my projects are available at [omid24.netlify.app](My Portfolio Page)
+- 👨‍💻 All of my projects are available at [omid24.netlify.app](omid24.netlify.app)
 
 - 💬 Ask me about **React, Next, CSS, Sanity**
 
